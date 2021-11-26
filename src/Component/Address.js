@@ -3,7 +3,7 @@ const Address = () => {
     return (
         <div>
             <h2>
-            Tripoli-benashor
+            libya - Tripoli - bin.ASHUOR
             </h2>
         </div>
     );

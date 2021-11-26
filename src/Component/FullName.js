@@ -3,7 +3,7 @@ const FullName = () => {
     return (
         <div>
             <h2>
-                alfaroq alshreef
+                ALFaroq alshreef
             </h2>
         </div>
     );
